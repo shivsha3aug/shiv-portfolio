@@ -1,0 +1,110 @@
+.section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 66px;
+    padding-right: 66px;}
+
+    button{
+        background-color: blue;
+        color: azure;
+        border: white;
+        width: 150px;
+        height: 30px;} 
+
+.content{
+    width: 50%;}
+
+.image{
+    width: 40%;
+    text-align: center;
+    margin-top: 90px;}
+
+.section2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 66px;
+    padding-right: 66px;}
+
+.content2{
+    width: 50%;}
+
+.image2{
+    width: 45%;
+    text-align: center;
+    margin-top: 30px;}
+
+.section3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 66px;
+    padding-right: 66px;}
+    
+.content3{
+        width: 50%;}
+    
+.image3{
+        width: 70%;
+        max-height: 70%;
+        text-align: center;
+        margin-top: 30px;}
+
+        .section4{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-left: 66px;
+            padding-right: 66px;}
+            
+        .content4{
+                width: 50%;}
+            
+        .image4{
+                width: 70%;
+                max-height: 70%;
+                text-align: center;
+                margin-top: 30px;}
+
+                .section5{
+                    display: flex;
+                    justify-content: space-between;
+                    align-items: center;
+                    padding-left: 66px;
+                    padding-right: 66px;}
+                    
+                .content5{
+                        width: 50%;}
+                    
+                .image5{
+                        width: 70%;
+                        max-height: 70%;
+                        text-align: center;
+                        margin-top: 30px;}
+
+
+       
+
+            .section6{
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                padding-left: 66px;
+                padding-right: 66px;}
+                
+            .content6{
+                    width: 50%;
+                     word-spacing: 2px;  
+                    line-height: 26px;           }   
+                
+            .image6{
+                    width: 50%;
+                    max-height: 70%;
+                    text-align: center;
+                    margin-top: 30px;}
+
+                    .page-wrapper {
+                        max-width: 1200px;  
+                        margin: 0 auto;    
+                        padding: 0 20px;
